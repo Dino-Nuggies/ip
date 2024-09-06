@@ -1,7 +1,7 @@
 package lemon;
 
 /**
- *
+ * Represents the enum as a parser
  */
 public class Parser {
     public enum Commands {
