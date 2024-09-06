@@ -75,7 +75,7 @@ public class Storage {
     /**
      * Saves all the tasks in the provided TaskList into the txt file
      * @param tasks TaskList the files is being saved from
-     * @return true if all tasks within the TaskList is saved successfully
+     * @return true if all tasks within the TaskList is saved successfully 
      */
     public boolean saveTasks(TaskList tasks) {
         try {
